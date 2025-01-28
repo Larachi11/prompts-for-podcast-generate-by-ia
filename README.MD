@@ -7,7 +7,7 @@
 
 <a href="https://github.com/Larachi11/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast-IAs.mp3" title="Listen Podcast now"> 📕Clique aqui para escutar</a>
 <p align="center">
-    preview do podcast
+  
 </p>
 
 <div align="center">
@@ -27,13 +27,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [MeraAI](https://www.meta.ai)
+- [MetaAI](https://www.meta.ai)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- MetaAI Para gerar capas
+- MetaAI para gerar capas
 
 ## 🛠️ Instruções de execução
 
@@ -41,8 +41,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `metaAI`
 
 ## 👨‍💻 Expert
 
-*Larissa Chidi*
+por **Larissa Chidi**
